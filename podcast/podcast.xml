@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Horizon 每日速递 · 个人定制播客</title>
+    <link>https://superblue26.github.io/Horizon/podcast/podcast.xml</link>
+    <description>每日建筑设计、BIM远程机会、美加澳新工签移民动态与雅思学术词汇语音简报。</description>
+    <language>zh-cn</language>
+    <item>
+      <title>Horizon 每日速递音频版 - 2026-11-27</title>
+      <description>今日建筑与设计、美加澳新签证移民政策、科技财经及雅思词汇语音播报。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://superblue26.github.io/Horizon/podcast/horizon-2026-11-27.mp3" length="2395296" type="audio/mpeg" />
+      <guid>https://superblue26.github.io/Horizon/podcast/horizon-2026-11-27.mp3</guid>
+    </item>
+  </channel>
+</rss>
