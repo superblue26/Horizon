@@ -33,130 +33,126 @@
     }
   },
   "sources": {
-    "github": [
-      {
-        "type": "user_events",
-        "username": "karpathy",
-        "enabled": true,
-        "profile": "tech-news"
-      },
-      {
-        "type": "repo_releases",
-        "owner": "vllm-project",
-        "repo": "vllm",
-        "enabled": true,
-        "profile": "tech-news"
-      },
-      {
-        "type": "repo_releases",
-        "owner": "sgl-project",
-        "repo": "sglang",
-        "enabled": true,
-        "profile": "tech-news"
-      },
-      {
-        "type": "repo_releases",
-        "owner": "triton-lang",
-        "repo": "triton",
-        "enabled": true,
-        "profile": "tech-news"
-      }
-    ],
+    "github": [],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
+      "fetch_top_stories": 20,
       "min_score": 150,
       "profile": "tech-news"
     },
     "rss": [
       {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
         "enabled": true,
-        "category": "ai-tools",
+        "category": "tech",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/news/rss.xml",
+        "enabled": true,
+        "category": "tech",
         "profile": "tech-news"
       },
       {
-        "name": "vLLM Blog",
-        "url": "https://vllm.ai/blog/rss.xml",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
         "enabled": true,
-        "category": "llm-inference",
-        "profile": "tech-blog",
-        "content_extractor": "trafilatura"
+        "category": "tech",
+        "profile": "tech-news"
       },
       {
-        "name": "Sean Goedecke",
-        "url": "https://www.seangoedecke.com/rss.xml",
+        "name": "美联储货币政策发布",
+        "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
         "enabled": true,
-        "category": "software-engineering",
-        "profile": "tech-blog",
-        "content_extractor": "trafilatura"
+        "category": "finance",
+        "profile": "finance-news"
       },
       {
-        "name": "CNBC Finance",
-        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+        "name": "麦肯锡深度洞察 (McKinsey)",
+        "url": "https://www.mckinsey.com/Insights/rss.aspx",
         "enabled": true,
         "category": "finance",
         "profile": "finance-news",
         "content_extractor": "trafilatura"
       },
       {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/rssindex",
         "enabled": true,
-        "category": "github-trending",
+        "category": "finance",
+        "profile": "finance-news"
+      },
+      {
+        "name": "路透社财经 (官网锁定)",
+        "url": "https://news.google.com/rss/search?q=site:reuters.com/business&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "finance",
+        "profile": "finance-news"
+      },
+      {
+        "name": "Archinect (海外建筑职场与行业)",
+        "url": "https://archinect.com/feed/home",
+        "enabled": true,
+        "category": "architecture",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "ArchDaily",
+        "url": "https://www.archdaily.com/feed",
+        "enabled": true,
+        "category": "architecture",
         "profile": "tech-news"
       },
       {
-        "name": "Semianalysis",
-        "url": "https://newsletter.semianalysis.com/feed",
+        "name": "Dezeen Architecture",
+        "url": "https://www.dezeen.com/architecture/feed/",
         "enabled": true,
-        "category": "semiconductors",
+        "category": "architecture",
         "profile": "tech-news"
       },
       {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
+        "name": "美加澳新建筑远程与BIM机会",
+        "url": "https://news.google.com/rss/search?q=architecture+remote+jobs+OR+BIM+freelance+US+Canada+Australia+New+Zealand&hl=en-US&gl=US&ceid=US:en",
         "enabled": true,
-        "category": "linux-kernel",
-        "profile": "tech-news"
+        "category": "architecture",
+        "profile": "tech-blog"
+      },
+      {
+        "name": "CIC News (加拿大工签与移民)",
+        "url": "https://www.cicnews.com/feed",
+        "enabled": true,
+        "category": "visa-policy",
+        "profile": "tech-blog",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "美国移民局 USCIS 官网动态",
+        "url": "https://news.google.com/rss/search?q=site:uscis.gov/newsroom+H1B+OR+visa+OR+work&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "visa-policy",
+        "profile": "tech-blog"
+      },
+      {
+        "name": "澳新移民局官网动态",
+        "url": "https://news.google.com/rss/search?q=(site:immi.homeaffairs.gov.au+OR+site:immigration.govt.nz)+visa+OR+skilled+OR+architect&hl=en-AU&gl=AU&ceid=AU:en",
+        "enabled": true,
+        "category": "visa-policy",
+        "profile": "tech-blog"
       }
     ],
     "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60,
-          "profile": "tech-news"
-        },
-        {
-          "subreddit": "LocalLLaMA",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60,
-          "profile": "tech-news"
-        }
-      ],
+      "enabled": false,
+      "subreddits": [],
       "users": [],
-      "fetch_comments": 10
+      "fetch_comments": 0
     },
     "telegram": {
-      "enabled": true,
-      "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20,
-          "profile": ["tech-news", "finance-news"]
-        }
-      ]
+      "enabled": false,
+      "channels": []
     }
   },
   "collection": {
@@ -166,8 +162,8 @@
     "max_items": null,
     "profile_order": [
       "tech-news",
-      "tech-blog",
-      "finance-news"
+      "finance-news",
+      "tech-blog"
     ],
     "category_groups": {},
     "default_group": "other",
@@ -211,3 +207,4 @@
     "headers": ""
   }
 }
+
