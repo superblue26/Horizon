@@ -1,0 +1,34 @@
+{
+  "id": "visa-policy",
+  "name": "Visa & Immigration Policy",
+  "display_names": {
+    "zh": "签证与移民"
+  },
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "content": {
+    "analysis_max_chars": 16000,
+    "enrichment_max_chars": 24000,
+    "sampling": "head-middle-tail"
+  },
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      {
+        "id": "background",
+        "type": "section",
+        "tools": []
+      },
+      {
+        "id": "solution",
+        "type": "section",
+        "tools": []
+      },
+      {
+        "id": "takeaway",
+        "type": "section",
+        "tools": []
+      }
+    ]
+  }
+}
