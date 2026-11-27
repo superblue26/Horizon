@@ -18,17 +18,25 @@
     "profiles_dir": "profiles",
     "default_profile": "tech-news",
     "profile_settings": {
+      "architecture": {
+        "threshold": 4.5,
+        "topic_dedup": true
+      },
+      "visa-policy": {
+        "threshold": 4.5,
+        "topic_dedup": true
+      },
       "tech-news": {
         "threshold": 5.5,
         "topic_dedup": true
       },
-      "tech-blog": {
-        "threshold": 2.0,
-        "topic_dedup": false
-      },
       "finance-news": {
         "threshold": 5.5,
         "topic_dedup": true
+      },
+      "tech-blog": {
+        "threshold": 5.0,
+        "topic_dedup": false
       }
     }
   },
@@ -97,7 +105,7 @@
         "url": "https://archinect.com/feed/home",
         "enabled": true,
         "category": "architecture",
-        "profile": "tech-blog",
+        "profile": "architecture",
         "content_extractor": "trafilatura"
       },
       {
@@ -105,28 +113,28 @@
         "url": "https://www.archdaily.com/feed",
         "enabled": true,
         "category": "architecture",
-        "profile": "tech-news"
+        "profile": "architecture"
       },
       {
         "name": "Dezeen Architecture",
         "url": "https://www.dezeen.com/architecture/feed/",
         "enabled": true,
         "category": "architecture",
-        "profile": "tech-news"
+        "profile": "architecture"
       },
       {
         "name": "美加澳新建筑远程与BIM机会",
         "url": "https://news.google.com/rss/search?q=architecture+remote+jobs+OR+BIM+freelance+US+Canada+Australia+New+Zealand&hl=en-US&gl=US&ceid=US:en",
         "enabled": true,
         "category": "architecture",
-        "profile": "tech-blog"
+        "profile": "architecture"
       },
       {
         "name": "CIC News (加拿大工签与移民)",
         "url": "https://www.cicnews.com/feed",
         "enabled": true,
         "category": "visa-policy",
-        "profile": "tech-blog",
+        "profile": "visa-policy",
         "content_extractor": "trafilatura"
       },
       {
@@ -134,14 +142,14 @@
         "url": "https://news.google.com/rss/search?q=site:uscis.gov/newsroom+H1B+OR+visa+OR+work&hl=en-US&gl=US&ceid=US:en",
         "enabled": true,
         "category": "visa-policy",
-        "profile": "tech-blog"
+        "profile": "visa-policy"
       },
       {
         "name": "澳新移民局官网动态",
         "url": "https://news.google.com/rss/search?q=(site:immi.homeaffairs.gov.au+OR+site:immigration.govt.nz)+visa+OR+skilled+OR+architect&hl=en-AU&gl=AU&ceid=AU:en",
         "enabled": true,
         "category": "visa-policy",
-        "profile": "tech-blog"
+        "profile": "visa-policy"
       }
     ],
     "reddit": {
@@ -161,9 +169,10 @@
   "digest": {
     "max_items": null,
     "profile_order": [
+      "architecture",
+      "visa-policy",
       "tech-news",
-      "finance-news",
-      "tech-blog"
+      "finance-news"
     ],
     "category_groups": {},
     "default_group": "other",
@@ -207,4 +216,3 @@
     "headers": ""
   }
 }
-
