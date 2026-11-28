@@ -13,14 +13,10 @@ import edge_tts
 
 def clean_for_tts(text: str) -> str:
     """彻底清除所有半角/全角 Markdown 符号、装饰符与链接，杜绝 TTS 念出'星号''井号'"""
-    # 1. 去掉 Markdown 链接和裸 URL
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"https?://\S+", "", text)
-    # 2. 彻底删除所有半角及全角符号（星号、井号、横线、下划线、项目符号、星星等）
     text = re.sub(r"[*#`~>|_•·＊＃＿～｜・●◆■★☆※▶►]+", " ", text)
-    # 3. 删除行首序号或横杠（如 "- " 或 "1. " 中的多余符号保留自然数字）
     text = re.sub(r"^\s*[-—–]+\s*", "", text, flags=re.MULTILINE)
-    # 4. 清理多余空行和连续空格
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     return text.strip()
@@ -120,13 +116,55 @@ for f in mp3_files:
     pub_dt = datetime.datetime.strptime(date_part, "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)
     pub_rfc822 = format_datetime(pub_dt)
     item_url = f"{base_url}/{f.name}"
-    items_xml.append(f"""    <item>
+    items_xml.append(
+        f"""    <item>
       <title>Horizon 每日速递与英文精读 - {date_part}</title>
       <description>今日建筑与设计、美加澳新签证移民政策、科技财经资讯及英文原文精读与雅思词汇。</description>
       <pubDate>{pub_rfc822}</pubDate>
       <enclosure url="{item_url}" length="{size_bytes}" type="audio/mpeg" />
       <guid>{item_url}</guid>
-    </item>""")
+    </item>"""
+    )
 
+items_block = "\n".join(items_xml)
 rss_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Horizon 每日速递 · 个人定制播客</title>
+    <link>{base_url}/podcast.xml</link>
+    <description>每日建筑设计、BIM远程机会、美加澳新工签移民动态，附英文原声精读与雅思学术词汇。</description>
+    <language>zh-cn</language>
+    <itunes:author>Horizon AI</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="{cover_url}" />
+    <image>
+      <url>{cover_url}</url>
+      <title>Horizon 每日速递 · 个人定制播客</title>
+      <link>{base_url}/podcast.xml</link>
+    </image>
+{items_block}
+  </channel>
+</rss>
+"""
+(podcast_dir / "podcast.xml").write_text(rss_xml, encoding="utf-8")
+print(f"播客 RSS 已更新: {base_url}/podcast.xml")
+
+# 5. 向飞书发送音频直链通知
+webhook_url = os.getenv("HORIZON_WEBHOOK_URL")
+if webhook_url:
+    payload = {
+        "msg_type": "text",
+        "content": {
+            "text": f"🎧 Horizon 每日语音简报已更新 ({today_str})\n（含英文新闻原文精读 + 5个雅思高频词汇）\n\n▶ 点击直接收听音频：\n{audio_url}"
+        }
+    }
+    req = urllib.request.Request(
+        webhook_url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"}
+    )
+    try:
+        urllib.request.urlopen(req, timeout=10)
+        print("飞书语音通知发送成功！")
+    except Exception as e:
+        print(f"飞书通知发送失败: {e}")
