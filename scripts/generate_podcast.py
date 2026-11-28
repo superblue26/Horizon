@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import shutil
 import asyncio
 import datetime
 from pathlib import Path
@@ -82,11 +83,19 @@ print("=== 清洗后送入 TTS 的文稿预览（前 600 字） ===")
 print(script_text[:600])
 print("==============================================")
 
-# 3. 使用 Edge-TTS 合成高质量中英混读 MP3
+# 3. 使用 Edge-TTS 合成高质量中英混读 MP3，并同步封面图到 docs/podcast/
 podcast_dir = docs_dir / "podcast"
 podcast_dir.mkdir(parents=True, exist_ok=True)
 mp3_filename = f"horizon-{today_str}.mp3"
 mp3_path = podcast_dir / mp3_filename
+
+root_cover = Path("cover.jpg")
+podcast_cover = podcast_dir / "cover.jpg"
+if root_cover.exists():
+    shutil.copy2(root_cover, podcast_cover)
+    print(f"✅ 已同步播客封面至 {podcast_cover}")
+else:
+    print("⚠️ 未在仓库根目录找到 cover.jpg，RSS 仍将引用封面 URL")
 
 
 async def synthesize():
@@ -101,6 +110,7 @@ asyncio.run(synthesize())
 repo_owner, repo_name = os.getenv("GITHUB_REPOSITORY", "superblue26/Horizon").split("/")
 base_url = f"https://{repo_owner.lower()}.github.io/{repo_name}/podcast"
 audio_url = f"{base_url}/{mp3_filename}"
+cover_url = f"{base_url}/cover.jpg"
 
 mp3_files = sorted(podcast_dir.glob("horizon-*.mp3"), reverse=True)[:30]
 items_xml = []
@@ -119,37 +129,4 @@ for f in mp3_files:
     </item>""")
 
 rss_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Horizon 每日速递 · 个人定制播客</title>
-    <link>{base_url}/podcast.xml</link>
-    <description>每日建筑设计、BIM远程机会、美加澳新工签移民动态，附英文原声精读与雅思学术词汇。</description>
-    <language>zh-cn</language>
-    <itunes:author>Horizon AI</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-{chr(10).join(items_xml)}
-  </channel>
-</rss>
-"""
-(podcast_dir / "podcast.xml").write_text(rss_xml, encoding="utf-8")
-print(f"播客 RSS 已更新: {base_url}/podcast.xml")
-
-# 5. 向飞书发送音频直链通知
-webhook_url = os.getenv("HORIZON_WEBHOOK_URL")
-if webhook_url:
-    payload = {
-        "msg_type": "text",
-        "content": {
-            "text": f"🎧 Horizon 每日语音简报已更新 ({today_str})\n（含英文新闻原文精读 + 5个雅思高频词汇）\n\n▶ 点击直接收听音频：\n{audio_url}"
-        }
-    }
-    req = urllib.request.Request(
-        webhook_url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"}
-    )
-    try:
-        urllib.request.urlopen(req, timeout=10)
-        print("飞书语音通知发送成功！")
-    except Exception as e:
-        print(f"飞书通知发送失败: {e}")
+<rss version="2.0" xmlns:itunes="
