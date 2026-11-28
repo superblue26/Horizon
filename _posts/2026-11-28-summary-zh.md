@@ -5,282 +5,337 @@ date: 2026-11-28
 lang: zh
 ---
 
-> 从 86 条内容中筛选出 11 条重要资讯。
+> 从 85 条内容中筛选出 13 条重要资讯。
 
 ---
 
 **建筑与设计**
-1. [巴西海滨住宅：Estúdio 41 以白色遮阳格栅与预制混凝土构筑“山海之间的避难所”](#item-architecture-1) ⭐️ 5.0/10
+1. [约瑟夫·乔马在佛罗里达办展：折纸几何如何变成大尺度可折叠建筑](#item-architecture-1) ⭐️ 5.0/10
 
 **签证与移民**
-1. [加拿大延长埃博拉相关移民与旅行限制至 2027 年 2 月](#item-visa-policy-1) ⭐️ 5.0/10
+1. [加拿大将埃博拉相关移民与旅行限制延长至 2027 年 2 月](#item-visa-policy-1) ⭐️ 5.0/10
 
 **科技新闻**
-1. [Google DeepCrossAttention：质量相当，速度最高提升 3 倍](#item-tech-news-1) ⭐️ 7.0/10
-2. [多州总检察长起诉 SpaceX，要求阻止 Grok 生成儿童性剥削与私密影像](#item-tech-news-2) ⭐️ 7.0/10
-3. [热门购物网站出现滥用 WebRTC 的盗刷脚本](#item-tech-news-3) ⭐️ 7.0/10
-4. [计算机检查的证明也可能为假](#item-tech-news-4) ⭐️ 7.0/10
-5. [Convex 技能被指未经告知上传应用创意](#item-tech-news-5) ⭐️ 6.0/10
-6. [Michael Nielsen 撤下其免费神经网络教材](#item-tech-news-6) ⭐️ 6.0/10
+1. [Google Research 提出 DeepCrossAttention 改造 Transformer 残差连接](#item-tech-news-1) ⭐️ 7.0/10
+2. [报道称热门购物网站出现利用 WebRTC 的信用卡盗刷脚本](#item-tech-news-2) ⭐️ 7.0/10
+3. [多州总检察长起诉 SpaceX，要求叫停 Grok 生成儿童性虐待与私密影像](#item-tech-news-3) ⭐️ 7.0/10
+4. [Convex 编程技能被指未披露上传应用创意](#item-tech-news-4) ⭐️ 6.0/10
+5. [Michael Nielsen 的神经网络教材被下线](#item-tech-news-5) ⭐️ 6.0/10
+6. [bouncemarket：SSE 直播弹球落点的预测市场游戏](#item-tech-news-6) ⭐️ 6.0/10
 
 **财经新闻**
-1. [Verizon 据报洽谈以 60 亿美元收购 Fidium](#item-finance-news-1) ⭐️ 7.0/10
-2. [路透：美国施压委内瑞拉与伊拉克考虑退出 OPEC](#item-finance-news-2) ⭐️ 6.0/10
-3. [BAE 系统公司称欧洲装甲车辆订单总额达 60 亿美元](#item-finance-news-3) ⭐️ 6.0/10
+1. [路透社独家：孟加拉国局势动荡，全球时尚品牌将订单转向印度](#item-finance-news-1) ⭐️ 7.0/10
+2. [北欧航空大西洋公司申请破产并停飞，路透称伊朗战争推高燃油成本](#item-finance-news-2) ⭐️ 6.0/10
+3. [路透：美国曾施压委内瑞拉和伊拉克考虑退出 OPEC](#item-finance-news-3) ⭐️ 6.0/10
+4. [路透：印尼考虑上调补贴燃油价格以缓解财政压力](#item-finance-news-4) ⭐️ 6.0/10
+5. [BAE 系统称欧洲战斗车辆订单总额达 60 亿美元](#item-finance-news-5) ⭐️ 6.0/10
 
 ---
 
 ## 建筑与设计
 
 <a id="item-architecture-1"></a>
-### [巴西海滨住宅：Estúdio 41 以白色遮阳格栅与预制混凝土构筑“山海之间的避难所”](https://www.dezeen.com/2026/11/27/guaratuba-house-brazil-estudio-41/) ⭐️ 5.0/10
+### [约瑟夫·乔马在佛罗里达办展：折纸几何如何变成大尺度可折叠建筑](https://archinect.com/news/article/150576766/joseph-choma-explores-origami-inspired-architecture-in-florida-exhibition) ⭐️ 5.0/10
 
-rss · Dezeen Architecture · 11月27日 18:00
+rss · Archinect \(海外建筑职场与行业\) · 11月27日 14:33
 
-**「背景」** 在巴西等沿海地区，住宅设计往往要同时回应两个条件：一是让室内与山海景观保持直接的视觉联系，二是应对风暴潮等自然灾害的威胁。位于库里提巴的 Estúdio 41 在巴西南部瓜拉图巴市 Prainha 海滨完成的 Guaratuba House，尝试把这两项看似矛盾的要求整合进同一套结构逻辑。业主的核心诉求很直接：公共空间要与周边自然景观形成“强烈的视觉连接”。
+**「背景」** 折纸结构长期被视为纸面实验，真正走向建筑尺度要面对材料、节点与整体稳定性的多重限制。传统折板构造依赖刚性平板按角度拼接，构件多、运输体积大，难以实现“整件扁平包装、现场展开”的设想。与此同时，建筑教育界正在讨论如何把人工智能、几何与材料创新纳入设计教学。在这一语境下，建筑师兼教育者约瑟夫·乔马把折叠从图纸推向户外装置，用可折叠的实体结构验证折叠逻辑的建造潜力，这也是理解该展览价值的前提。
 
-**「方案」** 这座矩形平面的两层住宅面积 375 平方米，外立面由穿孔三聚氰胺板制成的可折叠白色遮阳屏包裹：它既过滤自然光、降低玻璃表面的太阳得热，打开后又释放景观视野，夜间则像景观中的一盏灯笼。为应对历史上出现过的风暴潮，建筑整体抬高 70 厘米（2.3 英尺）。结构采用预制混凝土体系：六根柱、四根梁与 20 块双 T 形（π 形）预应力板，现场仅用六小时完成吊装，混凝土构件全部外露，并成为建筑表达的主体。团队称，这套“简单、易施工”的体系是对当地劳动力现实的回应，模块化排布与楼板肋条都清晰可读；结构、基础由 Da Rocha 与 Greco 负责，机电为 PD Engenharia，遮阳屏来自 Favegroup 与 Lamitech。
+**「方案」** 展览《Foldable Structures: Origami x Architecture》在佛罗里达州德拉雷海滩的森上博物馆与日本花园（Morikami Museum and Japanese Gardens）举办，于 12 月 12 日开幕，集中呈现四件专为展览创作的大尺度户外折叠玻璃钢结构，并配以纸质模型、图纸和记录设计过程的视频。其中《Kraken》（2026）由类似海星的二维折痕图案发展为雕塑性拱顶，五条螺旋“腿”各自成形落地，细微差异让整体更接近有机形态。乔马的路径区别于常规折板：不靠刚性平板成角拼接，而是利用受控屈曲获得形态，以密集排布的折痕提供结构强度，其中“三浦折叠”（Miura Fold）——日本天体物理学家三浦公亮于 1970 年提出的平行四边形重复折痕图案——影响了《Kraken》腿部的几何构成。乔马同时是佛罗里达大西洋大学建筑学院院长、Design Topology Lab 创始人，早前曾在克莱姆森大学带学生探索可折叠庇护所。
 
-**「启示」** 这个项目的价值不在造型，而在于把预制构件的模数与吊装效率直接当作形式语言：结构与遮阳一体化，既降低对高技能工人的依赖，也让建造逻辑本身成为可读的建筑表达。对 BIM 与远程协作而言，这类构件少、重复度高的体系，最容易在模型阶段验证碰撞与吊装顺序。
+**「启示」** 对建筑师与结构工程师而言，该项目的价值在于示范了“折痕即结构”：用几何图案而非附加构件获取刚度，为扁平运输、快速搭建的临时建筑与应急庇护所提供了可操作的原型思路。它也提示数字建模阶段的折痕生成逻辑，会直接决定现场的展开方式与建造难度。
 
 雅思高频词汇
-\- prefabricated \(adj.\) 预制的——同义替换：precast, factory-made, pre-assembled
-\- modular \(adj.\) 模块化的——同义替换：standardized, unit-based, component-based
-\- assemble \(v.\) 组装、装配——同义替换：put together, erect, construct
-\- transparency \(n.\) 透明性——同义替换：clarity, openness, see-through quality
-\- exposed \(adj.\) 外露的——同义替换：visible, uncovered, left bare
+\1. conventional（adj.）传统的、常规的——同义替换：traditional, customary, standard
+\2. innovation（n.）创新、革新——同义替换：novelty, breakthrough, advancement
+\3. rigid（adj.）刚性的、不变的——同义替换：stiff, inflexible, fixed
+\4. geometry（n.）几何形状、几何构成——同义替换：configuration, form, layout
+\5. principle（n.）原理、原则——同义替换：rule, mechanism, rationale
 
-**标签**: `#prefabricated concrete`, `#brise-soleil`, `#residential architecture`, `#Brazil`, `#construction systems`
+**标签**: `#origami architecture`, `#foldable structures`, `#design innovation`, `#architectural education`, `#exhibition`
 
 ---
 
 ## 签证与移民
 
 <a id="item-visa-policy-1"></a>
-### [加拿大延长埃博拉相关移民与旅行限制至 2027 年 2 月](https://www.cicnews.com/2026/11/canada-extends-ebola-related-immigration-and-travel-bans-until-february-2027-1182950.html) ⭐️ 5.0/10
+### [加拿大将埃博拉相关移民与旅行限制延长至 2027 年 2 月](https://www.cicnews.com/2026/11/canada-extends-ebola-related-immigration-and-travel-bans-until-february-2027-1182950.html) ⭐️ 5.0/10
 
 rss · CIC News \(加拿大工签与移民\) · 11月27日 19:03
 
-**「背景」** 加拿大自 2026 年 5 月起以埃博拉疫情为由实施边境公共卫生限制，并已多次延长。此次再延 90 天，背景是刚果（金）疫情仍在持续，而相关限制原定于 2026 年 11 月 27 日到期。
+**「背景」** 加拿大自 2026 年 5 月起因埃博拉疫情对刚果（金）、乌干达和南苏丹实施公共卫生边境措施，并已多次延长。刚果（金）仍是疫情中心，截至 11 月 24 日报告 12,021 例确诊病例和 5,904 例死亡；乌干达于 8 月 27 日被世卫组织宣布无埃博拉疫情，南苏丹暂无确诊病例。
 
-**「方案」** 根据 2026 年 11 月 27 日发布的联邦通知，针对居住在刚果民主共和国、乌干达和南苏丹的外国国民的入境禁令及移民文件暂停措施，将维持至 2027 年 2 月 25 日东部时间午夜。申请时身处加拿大境外且居住在这三国的申请人，其已获批的签证、许可和 eTA 继续暂停；IRCC 仍受理新申请和现有申请，但暂不作出最终决定，限制解除后暂停文件将自动恢复。过去 21 天内到过刚果（金）的外国国民不得入境或过境加拿大；加拿大公民和已登陆永久居民可入境，但须接受强制健康评估并隔离 21 天，出现症状者须在医疗机构隔离。IRCC 6 月 12 日数据显示约 3.6 万份来自三国的永久居民申请待最终决定；违反《隔离法》者可面临最高 100 万加元罚款、三年监禁或两者并罚，该命令刊登于 11 月 28 日《加拿大公报》。
+**「方案」** 新规将针对居住在这三国的外国公民的入境限制、签证/许可/eTA 暂停以及入境后健康措施延续至 2027 年 2 月 25 日东部时间午夜。过去 21 天内到过刚果（金）的外国公民仍不得入境或过境；加拿大公民和已登陆永久居民如曾前往三国，须接受强制健康评估并隔离 21 天，出现症状者需在医疗机构隔离。IRCC 继续审理来自三国居民的新旧申请，但暂不作出最终决定；受影响者会收到邮件通知，限制解除后暂停文件将自动恢复。违反措施可依《检疫法》面临最高 100 万加元罚款、3 年监禁或两者并罚。
 
-**「启示」** 对计划赴加的申请人而言，限制主要影响来自或近期到访刚果（金）、乌干达和南苏丹者，签证与 eTA 虽暂停但申请仍可递交并审理；建筑师、BIM/AEC 等专业人士若不受这些旅行史影响，应关注常规签证审理，而非将此视为职业移民政策变化。
+**「启示」** 对来自这三国的建筑师、BIM/AEC 专业人士和技术工人而言，这并非职业资格或技术移民规则变化，而是申请审理与出行时点被延后；应预留等待最终决定和自动恢复文件的时间，并关注 2027 年 2 月 25 日后的政策更新。
 
-雅思高频词汇：
-\- suspend（v.）暂停；同义替换：halt, pause, put on hold
-\- mandatory（adj.）强制的；同义替换：compulsory, required, obligatory
-\- quarantine（n./v.）隔离；同义替换：isolation, confinement
-\- comply（v.）遵守；同义替换：obey, adhere, follow
-\- interim（adj.）临时的；同义替换：temporary, provisional
+雅思高频词汇：suspend（v. 暂停；中止）— halt / pause / put on hold；quarantine（n./v. 隔离）— isolation / segregation；restriction（n. 限制）— limitation / constraint；compliance（n. 遵守）— adherence / observance。
 
-**标签**: `#Canada immigration`, `#travel ban`, `#visa processing`, `#IRCC`, `#public health restrictions`
+**标签**: `#Canada immigration`, `#Ebola travel ban`, `#IRCC processing`, `#visa suspension`, `#public health border measures`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [Google DeepCrossAttention：质量相当，速度最高提升 3 倍](https://research.google/blog/supercharging-transformer-residual-connections/) ⭐️ 7.0/10
+### [Google Research 提出 DeepCrossAttention 改造 Transformer 残差连接](https://research.google/blog/supercharging-transformer-residual-connections/) ⭐️ 7.0/10
 
-Google Research 在技术博客中介绍了名为 DeepCrossAttention 的 Transformer 残差连接方法，声称在模型质量相当的情况下可实现最高 3 倍的速度提升。该文的改进重点在残差连接上，但目前尚无独立验证结果，因此应视为研究团队的自述，而非已经复现的性能结论。对使用 Transformer 的开发者而言，是否采用取决于这种加速能否在自身模型规模、序列长度和硬件条件下成立。
+Google Research 发布博客，介绍名为 DeepCrossAttention 的 Transformer 残差连接改造方案，目标是提升模型效率，面向关注训练或推理成本的模型开发者。提交到 Hacker News 的标题宣称，该方法在模型质量相当的情况下最高快 3 倍，但现有材料没有提供可核实的基准数据，评论还指出博客原标题为 “Supercharging Transformer Residual Connections”。因此目前只能确认这是一项架构修改提案，不能认定已实现 3 倍加速。
 
 hackernews · ComputedCamp995 · 11月27日 23:06 · [社区讨论](https://news.ycombinator.com/item?id=50672565)
 
-**「背景」** 传统 Transformer 的残差连接只是把此前各层的输出直接相加，在层数加深时容易稀释关键信息。DeepCrossAttention 把这种固定的求和换成可学习的选择与路由：每一层都能动态地从前面各层的特征历史中挑选特征。该工作以论文形式发表于 ICML 2025，其 arXiv 预印本早在 2025 年 2 月就已公开，此次 Google Research 博客是对该方法的进一步介绍。
+**「背景」** 传统 Transformer 的残差连接会把各层输出直接相加，层数加深时可能出现信息稀释。Google Research 此前在 arXiv 论文中提出 DeepCrossAttention（DCA），用可学习、依赖输入的权重和深度方向的交叉注意力动态组合前面各层的输出；论文称在相同参数预算和训练时间下可获得更低困惑度，代价是模型参数略有增加。
 
-**「影响」** 对训练或部署 Transformer 的团队来说，关键问题是这最高 3 倍的加速能否在自己的模型规模、序列长度和硬件上复现；在独立基准出现前，不应把它当作无需验证的默认架构替换。
+**「对训练实现的影响」** 对训练大型 Transformer 的团队而言，DCA 意味着要把残差连接从固定相加改为在 Query、Key、Value 上引入可学习的深度交叉注意力路由，因此需要改动模型实现和训练代码。论文作者报告称，达到目标困惑度所需的训练时间最多可缩短至三分之一，并改善训练稳定性；但这一加速仍是作者自行报告的结果，尚缺独立复现，现有证据也未表明推理吞吐能获得同等收益。
 
-**「社区讨论」** Hacker News 评论中，有人批评原文用折线图连接不同方法并不合适，认为这些方法之间没有时间或其他连续关系，应改用柱状图。另有评论者追问，若把该方法与 MTP、Dflash 等已有加速手段叠加，速度能否从近两年的约 10 倍 tokens/sec 进一步提升到 30 倍。
+**「社区讨论」** 评论中有人把这种残差连接改造与 DenseNet 类比，并批评博客用折线图连接不同方法、缺少时间关系；也有人追问新方法能否与 MTP、Dflash 等已有推理加速手段叠加。另有评论提醒，博客实际标题是 “Supercharging Transformer Residual Connections”，不要直接采信提交标题中的加速说法。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://research.google/blog/supercharging-transformer-residual-connections/">Supercharging transformer residual connections - Google Research</a></li>
-<li><a href="https://explainx.ai/blog/google-deepcrossattention-transformer-residual-connections-2026">DeepCrossAttention (DCA): Google Fix for Deep Transformers ...</a></li>
 <li><a href="https://arxiv.org/abs/2502.06785">[2502.06785] DeepCrossAttention: Supercharging Transformer ...</a></li>
+<li><a href="https://arxiv.org/html/2502.06785v1">DeepCrossAttention: Supercharging Transformer Residual ...</a></li>
+<li><a href="https://www.alphaxiv.org/overview/2502.06785v1">DeepCrossAttention : Supercharging Transformer Residual ...</a></li>
+<li><a href="https://research.google/blog/supercharging-transformer-residual-connections/">Supercharging transformer residual connections</a></li>
 
 </ul>
 </details>
 
-**标签**: `#transformers`, `#model architecture`, `#training efficiency`, `#Google Research`, `#AI`
+**标签**: `#transformer-architectures`, `#model-efficiency`, `#attention-mechanisms`, `#google-research`, `#deep-learning`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [多州总检察长起诉 SpaceX，要求阻止 Grok 生成儿童性剥削与私密影像](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) ⭐️ 7.0/10
+### [报道称热门购物网站出现利用 WebRTC 的信用卡盗刷脚本](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) ⭐️ 7.0/10
 
-弗吉尼亚州总检察长 Jay Jones 与 Rayfield 等多州总检察长对 SpaceX 提起诉讼，要求法院阻止 Grok 生成儿童性剥削材料和未经同意的私密影像，并追究平台责任。公告将 SpaceX 描述为 X、xAI 和 Grok 的母公司，诉讼聚焦 Grok 在平台上的图像创建与传播。现有材料未披露参与州数、具体诉由和求偿范围，相关法律主张与案件实体问题仍未经法院验证。
+InfoHawk 的一篇报道称，一些热门购物网站被发现植入了利用 WebRTC 的信用卡盗刷脚本，发布时间为 11 月 27 日。该报道没有给出受影响站点的名称、脚本样本、拦截数量或攻击持续时间等可核实的细节，因此目前只能作为一项厂商或媒体披露的安全发现来看待，尚不能视为已独立验证的大规模事件。其值得注意的技术点在于，结账页面加载的第三方 JavaScript 能够直接接触用户输入的支付数据，而 WebRTC 只是这类脚本较新采用的通道。
 
-hackernews · DeepLogin · 11月27日 19:42 · [社区讨论](https://news.ycombinator.com/item?id=50670855)
+hackernews · scanr · 11月27日 15:40 · [社区讨论](https://news.ycombinator.com/item?id=50668145)
 
-**「背景」** 这起诉讼聚焦于 xAI 的 Grok Imagine 图像生成功能：该工具因“spicy mode”及生成性化图像的能力受到审视。弗吉尼亚州总检察长办公室援引反数字仇恨中心（CCDH）的研究称，Grok 曾在 11 天内在 X 上生成约 300 万张性化图像，其中约 2.3 万张似乎描绘儿童。
+**「背景：结账页脚本窃取与 CSP 盲区」** 这类攻击属于 Magecart 式的支付页面窃取（skimming）：攻击者在电商结账页植入第三方 JavaScript，在用户输入时读取卡号等支付数据并外传。常规防护依赖 CSP 的 connect-src 指令限制脚本向外部域名发起请求，但 WebRTC 的 data channel 不在该指令的约束范围内，因而成为绕过监控的外传通道；本次样本仍需先完成两次普通 Web 请求，才会打开 WebRTC 通道。据安全公司报告，Lascana、Samsonite、American Tourister、Revolve 和 FWRD 五家网站在黑色星期五前一周被植入该脚本，并均于 11 月 24 日或 25 日将其移除。
 
-**「影响」** 若法院批准禁令，Grok 的相关图像生成功能可能被迫限制或下架，平台还需增加对未成年人及真实人物图像的过滤；在裁决前，依赖 Grok 图像功能的产品团队应评估内容审核与州法合规风险。
+**「对电商运营者的影响」** 对在结账流程中嵌入第三方脚本的电商运营者来说，这意味着支付数据暴露面取决于这些外部脚本的权限，而不只是站点自身的后端防护。评论者指出，只要页面允许第三方代码运行，同类盗刷用普通 HTTP 请求也能实现，因此需要清点支付页加载的外部脚本并限制其可访问的数据，而不是只针对 WebRTC 做拦截。
 
-**「社区讨论」** 评论者质疑 Grok 此前是否已被平台广泛禁止、用户是否需要“绕过”限制，并追问制作这些图像的个人是否应被追责。一名评论者主张，美国最高法院已裁定仅用 AI 为个人消费生成儿童性虐待材料受言论保护，但该说法未在材料中获独立证实，其对未经同意的私密影像是否适用也不明确。
+**「社区讨论」** 评论者 afavour 认为，此事与 WebRTC 的技术能力关系不大，真正原因是它较少被安全监控覆盖、移动端也更难检测，同样手法用简单 HTTP 请求即可复现，根本问题在于站点嵌入了第三方脚本。另有评论者 jszymborski 把屏蔽广告和脚本视为合理的自我防护，s\_u\_d\_o 则追问广告提供商为何不对第三方代码做沙箱隔离。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html">SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized ...</a></li>
-<li><a href="https://www.zerohedge.com/technology/virginia-oregon-sue-spacex-over-groks-spicy-mode-and-sexual-deepfakes">Virginia, Oregon Sue SpaceX Over Grok &#x27;s &#x27;Spicy Mode&#x27; And Sexual .....</a></li>
+<li><a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer">Credit card skimming scripts using WebRTC found on popular ...</a></li>
+<li><a href="https://daily.dev/posts/credit-card-skimming-scripts-using-webrtc-found-on-popular-shopping-sites-mr8zgdbaf">Credit card skimming scripts using WebRTC found on...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI regulation`, `#generative AI`, `#content moderation`, `#AI safety`, `#xAI/Grok`
+**标签**: `#web security`, `#credit card skimming`, `#WebRTC`, `#e-commerce`, `#privacy`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [热门购物网站出现滥用 WebRTC 的盗刷脚本](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) ⭐️ 7.0/10
+### [多州总检察长起诉 SpaceX，要求叫停 Grok 生成儿童性虐待与私密影像](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) ⭐️ 7.0/10
 
-据 InfoHawk 报道，热门购物网站上出现滥用 WebRTC 的信用卡盗刷脚本，目标是从购物页面窃取支付数据。提供的材料没有说明受影响站点的名称、感染规模、涉及的数据量或清理进展，因此目前无法判断事件范围。报道将这些脚本与 WebRTC 联系起来，但现有信息未给出具体攻击链或样本细节。
+弗吉尼亚州总检察长办公室网站发布的新闻稿显示，两名州总检察长 Jones 与 Rayfield 已起诉 SpaceX，要求叫停 Grok 生成儿童性虐待材料和未经同意的私密影像；新闻稿把 SpaceX 描述为 X/xAI 与 Grok 的母公司，并提到相关图像的“创作与推广”。现有材料只有标题和摘要级信息，未披露诉讼州数、具体法律请求、法院是否受理或技术细节，相关指控尚未经独立证实。对 X/Grok 用户而言，现阶段无法确认图像生成功能是否会立即受限。
 
-hackernews · scanr · 11月27日 15:40 · [社区讨论](https://news.ycombinator.com/item?id=50668145)
+hackernews · DeepLogin · 11月27日 19:42 · [社区讨论](https://news.ycombinator.com/item?id=50670855)
 
-**「背景」** WebRTC 是浏览器内置的实时点对点通信接口，无需插件即可建立数据通道，常用于视频通话和文件传输。电商结账页通常会嵌入支付、营销、分析等第三方 JavaScript，这类脚本一旦被篡改或来自不可信的供应商，就能在用户输入卡号时直接读取表单内容。另一则同期报道同样描述，此次攻击把数据外传通道换成了 WebRTC，而脚本被植入的仍是热门购物网站的支付页面。
+**「背景」** 这起诉讼延续了围绕 Grok 图像生成能力的既有争议。Ars Technica 2026 年 7 月报道的一起诉讼称，一名男子用 Grok 生成了约 7000 张儿童性虐待图像，而 xAI 的儿童安全机制直到提示词涉及“轮奸”时才介入。弗吉尼亚州总检察长办公室还引用反数字仇恨中心（CCDH）的研究称，Grok 曾在 11 天内于 X 上生成约 300 万张性化图像，其中约 2.3 万张疑似描绘儿童。
 
-**「影响」** 如果报道属实，受影响电商站点需要把第三方脚本审查和 WebRTC 出站流量监控纳入排查范围，而不能只依赖对常规 HTTP 请求的检测；在受影响站点名单和清理状态未明的情况下，在这些站点输入支付信息的用户面临数据被窃取的风险。
+**「影响」** 这起诉讼把 Grok 的图像生成与内容审核置于司法审查之下；在法院发出禁令或作出裁决前，X/Grok 是否会被迫调整或限制该功能仍不确定。
 
-**「社区讨论」** 有评论者认为，这类事件是拦截广告的正当理由之一；afavour 则指出，WebRTC 并非必要条件，攻击者只是利用其较少被监控的特点，普通 HTTP 请求同样可以外传数据，只要站点嵌入第三方脚本就仍然脆弱。另有评论者主张浏览器不应让第三方代码任意执行，并对广告平台为何不沙箱化脚本提出疑问。
+**「社区讨论」** 评论区有人困惑，此类内容是否早已被各平台广泛禁止，还是 Grok 的限制较松、用户需要“诱导”才会生成；也有人追问制作这些图像的个人是否应被追责。另有评论者声称，美国最高法院已裁定仅供个人使用的 AI 生成儿童性虐待材料受言论保护，前提是不涉及真实儿童；这一说法未在现有材料中得到验证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://sifirincidakika.com/haber/populer-alisveris-sitelerinde-webrtc-tabanli-kredi-karti-skimming-betikleri-bulundu">Popüler alışveriş sitelerinde WebRTC tabanlı kredi kartı skimming ...</a></li>
+<li><a href="https://www.zerohedge.com/technology/virginia-oregon-sue-spacex-over-groks-spicy-mode-and-sexual-deepfakes">Virginia , Oregon Sue SpaceX Over Grok &#x27;s &#x27;Spicy Mode&#x27; And Sexual .....</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/">Lawsuit : Man used Grok to make 7K sex images of... - Ars Technica</a></li>
 
 </ul>
 </details>
 
-**标签**: `#web security`, `#credit card skimming`, `#WebRTC`, `#third-party scripts`, `#e-commerce security`
+**标签**: `#AI safety`, `#content moderation`, `#generative AI`, `#legal/regulation`, `#Grok`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [计算机检查的证明也可能为假](https://cr.yp.to/proofs/falseccp.html) ⭐️ 7.0/10
+### [Convex 编程技能被指未披露上传应用创意](https://github.com/convex/convex-backend-skill/issues/64) ⭐️ 6.0/10
 
-一篇分析文章讨论“计算机检查过的证明也可能为假”，重点在证明检查器的 soundness（可靠性）缺陷。文章提醒，单个检查器返回成功并不能保证结论为真，因为检查器实现本身可能接受错误证明。Hacker News 的讨论补充了现实中的防线：Lean 社区持续处理这类缺陷，Metamath 主数据库要求证明通过五种不同语言实现的独立验证器；也有评论认为缺陷数量很少，对多数软件场景仍足够。
+GitHub 上的 convex-backend-skill 第 64 号 issue 指控该 Convex AI 编程技能会把用户的应用创意上传到远程服务器，却没有向用户作出清晰披露。Convex CEO Jamie 在评论中回应称，该插件中的提示词上传用于支持 Convex 的 quickstart 功能，而 quickstart 是已关闭的端到端 vibe-coding 产品 Convex Chef 的后续项目；他还表示 Convex 平台会存储用户的数据和代码，并提供供开发者使用的 AI gateway。目前争议的核心是提示词是否得到充分披露，以及用户能否知情地控制这一传输，而非已有证据表明存在恶意行为。
 
-hackernews · \_tk\_ · 11月27日 15:26 · [社区讨论](https://news.ycombinator.com/item?id=50667989)
+hackernews · MickyTheMouse · 11月27日 18:02 · [社区讨论](https://news.ycombinator.com/item?id=50669765)
 
-**「背景」** 计算机检查的证明依赖一个受信任的内核或检查器；若该内核存在可靠性（soundness）缺陷，它可能把错误的证明判定为通过。此前公开的 Lean 内核 bug \#14576 事后分析就描述过这样的案例：一个错误证明利用了 Lean 内核缺陷，而独立的 Rust 检查器 nanoda 也因另一个无关的投影节点验证缺陷未能发现它。这为理解本文讨论的“假计算机检查证明”提供了具体先例。
+**「背景」** Convex 是面向全栈应用的响应式后端平台，提供开源响应式数据库和托管能力；争议涉及的 /quickstart 技能是 Convex 编码插件的一部分，用于把应用想法快速引导成可运行项目。根据问题页标题，该技能会把用户的想法发送到 Convex 的 .site 主机并执行后续流程，这构成了此次关于上传与告知是否充分的讨论背景。
 
-**「影响」** 对使用 Lean、Metamath 等系统的开发者来说，实际保障应来自多个独立检查器和人工非形式审查，而不能只依赖某一次“检查通过”的结果；否则单点 soundness 缺陷可能让错误证明进入可信基。
+**「实际影响」** 使用该插件的开发者应意识到，应用创意和提示词可能离开本地环境并发送至远程服务；在采用前，有必要确认自己是否接受这一传输方式以及 Convex 的数据处理安排。
 
-**「社区讨论」** twotwotwo 认为，单个检查器出错不足以误导数学家，因为还有多个检查器，并且输入仍需通过人工非形式审查；dwheeler 补充说，Metamath 的 set.mm 和 iset.mm 要求证明通过五种不同语言编写的独立验证器。gr\_norm 认为现有可靠性缺陷少到几乎能用一条推文概括，对 99.9% 的软件已足够，而 andai 提醒更隐蔽的问题是证明目标本身被错误理解。
+**「社区讨论」** 评论中有开发者认为，从长期看自托管开放权重模型是更合适的方向；也有人用“信任是新的注意力”来概括此类工具面临的信任问题。另有评论指出，提示注入比模型自行发起恶意工具调用更常见，但同时强调这并不表示此次事件具有恶意。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aitoolly.com/ai-news/article/2026-08-02-lean-kernel-soundness-bug-14576-postmortem-of-the-ai-assisted-collatz-conjecture-disproof-and-fix">Lean Kernel Bug #14576: Postmortem and Technical Analysis | AIToolly</a></li>
-<li><a href="https://www.aiatolah.com/en/posts/20260810-lean-kernel-bug-refutes-collatz-lessons-in-soundness/">Lean kernel bug refutes Collatz: lessons in soundness | Aiatolah</a></li>
+<li><a href="https://github.com/convex/convex-backend-skill/issues/64">Quickstart skills send the user&#x27;s idea to a convex .site host and run...</a></li>
+<li><a href="https://www.convex.dev/">Convex | All gas, no breakages</a></li>
+<li><a href="https://www.claudedirectory.org/plugins/convex">Install Convex – Best Claude Code Plugin Setup... | Claude Directory</a></li>
 
 </ul>
 </details>
 
-**标签**: `#formal verification`, `#proof assistants`, `#soundness`, `#Lean`, `#Metamath`
+**标签**: `#AI coding tools`, `#privacy`, `#vendor transparency`, `#developer tooling`, `#open source`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Convex 技能被指未经告知上传应用创意](https://github.com/convex/convex-backend-skill/issues/64) ⭐️ 6.0/10
+### [Michael Nielsen 的神经网络教材被下线](https://neuralnetworksanddeeplearning.com/) ⭐️ 6.0/10
 
-在 convex-backend-skill 仓库的 issue \#64 中，有人指称该 Convex AI 编程技能会把用户的应用创意发送到远程服务器，却没有清楚告知用户。Convex CEO Jamie 在 issue 评论中确认，插件中的提示词上传用于支撑 Convex 的 “quickstart” 功能，并称该功能是已关闭的端到端 vibe-coding 产品 Convex Chef 的继任者。从可见回应看，未说明上传是否默认开启、用户会看到何种提示或数据如何保留。
-
-hackernews · MickyTheMouse · 11月27日 18:02 · [社区讨论](https://news.ycombinator.com/item?id=50669765)
-
-**「背景」** Convex 的这项 AI 编码技能以插件形式帮助用户生成并搭建应用。Convex CEO 在讨论中表示，插件中的提示上传用于支撑“quickstart”功能，而该功能是已停运的端到端 vibe-coding 产品 Convex Chef 的后续产品；这为当前关于上传目的与告知方式的争议提供了直接背景。
-
-**「影响」** 对使用该技能的开发者而言，实际影响是应用创意和提示内容可能离开本机；在 Convex 澄清默认行为、界面提示和数据保留方式前，涉及未公开产品计划的开发者应避免把敏感构想直接交给该技能，或先审查其上传行为。
-
-**「社区讨论」** 评论者 quantum\_state 认为长期看自托管开放权重模型更可靠，dccoolgai 则把此事概括为信任问题。jaynate 指出提示注入比模型自行发起恶意工具调用更常见，但明确表示这不能说明此次上传具有恶意；这些均为评论者观点。
-
-**标签**: `#AI coding tools`, `#privacy`, `#data handling`, `#Convex`, `#developer trust`
-
----
-
-<a id="item-tech-news-6"></a>
-### [Michael Nielsen 撤下其免费神经网络教材](https://neuralnetworksanddeeplearning.com/) ⭐️ 6.0/10
-
-Michael Nielsen 的免费在线书《Neural Networks and Deep Learning》已从其官方网站 neuralnetworksanddeeplearning.com 撤下，原有链接不再提供该书内容。该书长期被用作深度学习入门材料，此次下线条目本身未给出技术细节或作者声明，因此具体原因尚不明确。Hacker News 的讨论将此举与 AI 风险担忧联系起来，但这属于评论者的解读，而非已确认的动机。评论中还出现了指向网络档案馆存档副本的链接。
+据 Hacker News 上的条目，Michael Nielsen 的在线教材《Neural Networks and Deep Learning》已从其网站下线，依赖该官方入口的读者无法再直接访问。当前提供的材料没有作者本人的解释，因此下架原因、持续时间和是否为永久移除都无法确认。评论中有人贴出 Wayback Machine 存档链接，显示该书副本仍在网上流传；讨论则把此举与对 AI 风险的抗议联系起来。
 
 hackernews · brandonb · 11月27日 19:31 · [社区讨论](https://news.ycombinator.com/item?id=50670757)
 
-**「被撤下的是什么书」** 《Neural Networks and Deep Learning》是 Michael Nielsen 编写的免费在线书，站点上标注的版本日期为 2019 年 12 月，内容从神经网络的基本概念讲到深度学习，长期作为公开可读的入门教材使用。该书的完整内容此前也以 PDF 等形式在网络上流传，说明它被广泛引用和转载。
+**「背景」** 《神经网络与深度学习》是 Michael Nielsen 在 2011 至 2015 年间编写的免费在线教材，长期托管在 neuralnetworksanddeeplearning.com，是该领域常被使用的入门资源之一。据 explainX 与 Let&\#x27;s Data Science 等报道，Nielsen 于 2026 年 11 月撤下该书，并在原址发布声明称，前沿实验室的推进速度已超出社会适应能力，他不愿再帮助培养投身前沿 AI 工作的人才；这些报道同时指出，该声明属于他的个人判断，并非独立调查结论。
 
-**「影响」** 对把该书当作免费入门教材的自学者和教师来说，作者维护的原始版本不再可访问，只能依赖第三方转载或网络档案馆副本，这些副本未必包含作者此前的修订与勘误。评论者还指出，该书此前已在网上广泛流传，因此撤下原站对内容可获得性的实际影响可能有限。
+**「影响」** 依赖该教材官方链接的读者、教师和课程需要改用存档或本地副本；评论中已有人给出 Wayback Machine 链接。
 
-**「社区讨论」** 有评论者认为撤下是失策，主张让更多人理解大公司内部的技术原理，才能帮助公众应对技术后果；另一位评论者则认为这更像一种抗议姿态，实际作用有限，反而会让更多人想去找这本书。讨论还延伸到前沿实验室的资本投入与 AI 风险时间表，但这些属于个人观点而非已证实的事实。
+**「社区讨论」** 评论者对下架是否有效意见不一：有评论者认为，让公众理解大公司内部技术有助于人们认识后果，隐藏知识是错误；另一人认为这本书已广泛流传，下架更像抗议而非实际阻断，反而可能让更多人想读。还有评论把话题延伸到前沿实验室资本和 ASI 风险，但这些属于个人判断，不能替代作者的下架说明。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://jingyuexing.github.io/Ebook/Machine_Learning/Neural+Networks+and+Deep+Learning-eng.pdf">1 Neural networks and deep learning .pdf</a></li>
-<li><a href="http://neuralnetworksanddeeplearning.com/">Neural networks and deep learning</a></li>
+<li><a href="https://explainx.ai/blog/michael-nielsen-neural-networks-deep-learning-book-taken-down-november-2026">Michael Nielsen Removed His Deep Learning Book: Why ...</a></li>
+<li><a href="https://dev.to/frankchu/1000x-off-the-book-that-taught-ai-just-quit-137b">1,000x off: the book that taught AI just quit - DEV Community</a></li>
+<li><a href="https://letsdatascience.com/news/michael-nielsen-takes-down-neural-networks-book-citing-front-5b13ee6c">Michael Nielsen takes down neural networks book, citing ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI education`, `#neural networks`, `#open access`, `#AI safety debate`, `#community discussion`
+**标签**: `#neural networks`, `#AI education`, `#open access`, `#AI safety`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [bouncemarket：SSE 直播弹球落点的预测市场游戏](https://bouncemarket.minhanhday.com/) ⭐️ 6.0/10
+
+开发者 mday404 在 Hacker News 发布了 bouncemarket，一个让玩家押注弹跳球最终落点的实时预测市场游戏。整段落球过程由服务器端模拟，再以带小缓冲的服务器发送事件（SSE）流式推送给每个客户端；每轮结果由起始位置确定，可精确回放，但起始位置的细微变化就可能改变落点。游戏还加入了基于简单规则的 AI 交易者来维持市场流动，不过只要一轮有超过五名真人参与，它们就会退出。
+
+hackernews · mday404 · 11月27日 15:01 · [社区讨论](https://news.ycombinator.com/item?id=50667726)
+
+**「背景」** 预测市场通常让参与者买卖与某一结果挂钩的份额，价格会随交易变化，反映市场对该结果概率的估计；bouncemarket 把这一机制用于服务端模拟的弹球落点。该项目通过 SSE（服务器发送事件）把每轮模拟逐步推送给浏览器，客户端不负责物理计算，只接收带小缓冲的状态更新；同一初始位置可以精确复现整轮结果。
+
+**「影响」** 当前市场机制给玩家留下了套利路径：有评论者报告，可以忽略球路、低价同时买入两种结果，从而在任一落点下获利；若开发者调整赔率或流动性，需要一并处理这种策略。
+
+**「社区讨论」** 评论者一方面抱怨落球太快，赔率能在约十分之一秒内从 0.01 跳到 0.99，下注时很难跟上；另一方面有人报告，忽略球路、低价同时买入两种结果反而很有效。geoffschmidt 认为，由于只用一句提示让前沿模型去赢下该网站就可能得到不错的机器人，实战会变成机器人对战，模型会针对逐渐揭示的起始位置小数部分写出精确求解器。
+
+**标签**: `#prediction markets`, `#game development`, `#server-sent events`, `#AI agents`, `#Show HN`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [Verizon 据报洽谈以 60 亿美元收购 Fidium](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG12dXVFaTVOY1I4QnVlelVHenRWT3RKNDA4RWotOXZLSTF0ZThySjZUWlcycnlwNmZ4cjF3SDZIbUdydlJVOWNxNjlqcVBYb3RjcTZSbjNpRkZPZUZBUkxtSWlwVzZENnZIVkNzVFBfTndxc25wN2RobHZSajFLVTlxYVRCcXA3U2FadjlTUS1kNVlOaUVGVlVqUHktUF8yX3pWSmNLY0JKOXAzV2lz?oc=5) ⭐️ 7.0/10
+### [路透社独家：孟加拉国局势动荡，全球时尚品牌将订单转向印度](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5) ⭐️ 7.0/10
 
-路透社援引《金融时报》报道，Verizon 正就收购光纤宽带运营商 Fidium 进行洽谈，交易金额据报为 60 亿美元。该消息目前尚未获得双方确认，报道也未说明交易结构或时间表。
+路透社独家报道称，受孟加拉国局势动荡影响，全球时尚品牌正把服装订单从孟加拉国转向印度；该报道未披露涉及哪些品牌，也未给出订单规模或数量。
 
-rss · 路透社财经 \(官网锁定\) · 11月27日 18:25
+rss · 路透社财经 \(官网锁定\) · 11月27日 12:16
 
-**「背景」** Fidium 前身是 Consolidated Communications，2024 年被 Searchlight 与 BCI 以 31 亿美元的交易私有化收购，因此它目前是一家由私募股权持有的光纤宽带运营商。
+**「背景」** 孟加拉国服装业近期发生劳工骚乱，打乱工厂生产节奏，促使依赖当地产能的全球品牌把部分订单转往印度等亚洲制造中心，以维持供货。
+
+**「受影响方」** 据 TBS News 报道，约 2.54 亿美元的服装订单从孟加拉国转出，其中大部分流向印度；因此孟加拉国成衣厂及其工人面临停工和收入损失，而印度服装制造商则获得这部分短期订单。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1">Verizon in talks over $6bn deal for Fidium to boost broadband ...</a></li>
+<li><a href="https://www.reuters.com/business/retail-consumer/global-fashion-brands-shift-orders-bangladesh-india-amid-unrest-2026-11-27/">EXCLUSIVE: Global fashion brands shift orders from Bangladesh ...</a></li>
+<li><a href="https://www.msn.com/en-us/money/general/exclusive-global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/ar-AA2ilWft">Exclusive-global fashion brands shift orders from Bangladesh ...</a></li>
+<li><a href="https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece">Global fashion brands shift orders from Bangladesh to India ...</a></li>
+<li><a href="https://www.tbsnews.net/economy/rmg/global-brands-shift-hundreds-millions-orders-bangladesh-india-amid-unrest-1615806">Global brands shift hundreds of millions in orders from ...</a></li>
+<li><a href="https://www.outlookindia.com/international/bangladesh-garment-crisis-zara-hm-orders-shift-india-factory-unrest-textile-industry">Bangladesh&#x27;s Garment Crisis: Why Global Fashion Brands Are ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#telecom`, `#M&amp;A`, `#Verizon`, `#Fidium`, `#fiber broadband`
+**标签**: `#Bangladesh unrest`, `#apparel supply chain`, `#order shifts`, `#India manufacturing`, `#garment exports`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [路透：美国施压委内瑞拉与伊拉克考虑退出 OPEC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5) ⭐️ 6.0/10
+### [北欧航空大西洋公司申请破产并停飞，路透称伊朗战争推高燃油成本](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFZ5amdzZG00RTRadGk1NlNDb0JFeTNseGJid3dwNWtNTFBvaVQ1LVdnSUs1Rkk3Uy1tTlNDVVBmMkRkV1QxU3lGcHR2ZzU0bG9PMlM4OXphZHpVVVBXNS14WnRNX2xsWEZrSXV4TjRHUlZFWUlEYldEY1NFZlRqa2xjNUE2T0l5cWJ3MTU4aGo3Qk91WVcwdHdtZWdkTEZ2bWdnUGxrVHdOYmZ4ZDVMOGtWc2U5S2ZuM1FjRQ?oc=5) ⭐️ 6.0/10
 
-路透社援引未具名消息人士独家报道，美国向委内瑞拉和伊拉克施压，要求两国考虑退出石油输出国组织（OPEC）。报道未披露施压的具体方式、时间表或两国政府的回应，两国目前仅被指“考虑”退出，尚未有任何退出决定。
+据路透社报道，北欧航空大西洋公司（Norse Atlantic）已申请破产并暂停航班运营，报道将这家航空公司的倒闭归因于伊朗战争导致的燃油成本上升。该报道未提供财务数据、债权人信息，也未说明对乘客和员工的影响。
 
-rss · 路透社财经 \(官网锁定\) · 11月27日 06:02
+rss · 路透社财经 \(官网锁定\) · 11月27日 07:39
 
-**「背景」** 欧佩克（OPEC）是主要产油国协调产量配额、以影响国际油价的组织，委内瑞拉和伊拉克均为 1960 年的创始成员国。据路透社援引知情人士，特朗普政府以拖欠会费和产量配额分歧为由，施压两国考虑退出；沙特王储穆罕默德·本·萨勒曼曾介入，阻止对委内瑞拉的施压。
+**「背景」** Norse Atlantic 是一家总部位于挪威阿伦达尔的廉价长途航空公司，2022 年 6 月才开始商业运营，机队主要由波音 787 组成；此次申请破产的是其挪威主要运营实体。
+
+**「受影响群体」** 对已订票乘客而言，航班全面停飞意味着数千人需依据欧盟 261/英国 261 等规定申请退款或改签，而其母公司在申请破产时称因无法获得短期流动性而停运，偿付前景因此存在不确定性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://clashreport.com/world/articles/u-s-pushed-venezuela-and-iraq-to-consider-leaving-opec-qk5q2z20fc">U . S . Pushed Venezuela and Iraq to Consider Leaving OPEC · Clash...</a></li>
-<li><a href="https://uz.kursiv.media/en/2026-11-27/trump-venezuela-iraq-opec-exit/">Trump aides pressure two OPEC founders into quitting — report</a></li>
+<li><a href="https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/">Norse Atlantic files for bankruptcy, halts flights as Iran ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Norse_Atlantic_Airways">Norse Atlantic Airways - Wikipedia</a></li>
+<li><a href="https://www.flight-delayed.com/en/news/2026/11/26/norse-atlantic-suspends-all-flights">Norse Atlantic suspends all flights: refunds and your rights</a></li>
+<li><a href="https://www.travelerstoday.com/articles/61482/20261127/norse-atlantic-collapses-what-passengers-must-do-get-their-money-back.htm">Norse Atlantic Collapses: What Passengers Must Do to Get ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OPEC`, `#oil markets`, `#US foreign policy`, `#Venezuela`, `#Iraq`
+**标签**: `#bankruptcy`, `#airlines`, `#fuel costs`, `#geopolitical risk`, `#Norse Atlantic`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [BAE 系统公司称欧洲装甲车辆订单总额达 60 亿美元](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2RKOGc2NkFKZVhNVTVTeTVtZGQyc041VHZKZXRHNlM4eUI1eU1DVW1FNDVicTN2ajJ5RE9LQW1PMTEyaDF2YTYydFRhSmRMelUxbndQQTNjSGN4Qm52X1h5dU1kTTZCZHhwQVpHaUVRRE14T1lNSFNpWkVuTkhVc3hNWVpRMVpNaFVkN0VKRE9lSDBlTl9vZFppWHhYTThha0J3UUtYNTdMWHRSajhVRUNoaHRmMGV5UU9ZenBFZ2MxZWQ2?oc=5) ⭐️ 6.0/10
+### [路透：美国曾施压委内瑞拉和伊拉克考虑退出 OPEC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5) ⭐️ 6.0/10
 
-据路透社报道，BAE 系统公司表示，一项欧洲装甲车辆订单总额为 60 亿美元。该报道仅提及订单金额，未披露合同期限、客户或交付安排等细节。
+路透社援引未具名消息人士报道，美国曾推动委内瑞拉和伊拉克考虑退出石油输出国组织（OPEC）。该报道未提供具名官员、具体时间或相关数字，也未说明这两国对这一提议的考虑进行到何种程度，相关说法尚未得到证实。
 
-rss · 路透社财经 \(官网锁定\) · 11月27日 12:38
+rss · 路透社财经 \(官网锁定\) · 11月27日 06:02
 
-**「背景」** 这一披露正值欧洲多国加快装甲车辆采购。据 defence-blog 报道，立陶宛于 11 月 27 日签署价值 13 亿欧元（约合 14.2 亿美元）的合同，购买 100 辆 CV90 MkIV 步兵战车，是五个采购国中首个接装方。路透社的报道目前只有标题，未说明这份 60 亿美元订单的买方、交付时间或确认方式。
+**「背景」** 欧佩克（OPEC）是主要产油国协调产量以影响油价的组织；路透报道称，委内瑞拉因多年制裁导致产量从历史高位大幅萎缩，目前被豁免于 OPEC+的产量配额。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://defence-blog.com/lithuania-signs-1-4-billion-deal-for-100-cv90-fighting-vehicles/">Lithuania signs $1.4 billion deal for 100 CV90 fighting vehicles</a></li>
+<li>US pushed Venezuela, Iraq to consider leaving OPEC, sources say</li>
 
 </ul>
 </details>
 
-**标签**: `#BAE Systems`, `#defense contracts`, `#European defense`, `#combat vehicles`, `#company orders`
+**标签**: `#OPEC`, `#oil markets`, `#US energy policy`, `#geopolitics`, `#Venezuela and Iraq`
+
+---
+
+<a id="item-finance-news-4"></a>
+### [路透：印尼考虑上调补贴燃油价格以缓解财政压力](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3FHY0lKeGNiU2dYNEtfT1JlNFBqZDZVUFMwNHJ0WUI2MllTNF84dFprX1hYcG1oZThOeVoya0VXcnZWS2E0MnBXdUtqaXUzRGg2RGw2RHVmeG42VERkUkl5Y2dIRkF3VjUyeHI2XzlxclN1Nmc2ZjBEZUU5SFNId0FCVEdYVmxPWHBzNlVqeWZsQm9SRHE0eU5TSjNyMll1ZTJzSEp5NUtHMHhJWmg3N1pKTl9fdlBQcEtlRUYzcEpTUmZRbjRMSw?oc=5) ⭐️ 6.0/10
+
+路透社援引未具名消息人士报道，印度尼西亚正考虑提高受补贴燃油的价格，理由是财政压力不断加大；报道未给出具体涨幅、实施时间或已确认的决策。
+
+rss · 路透社财经 \(官网锁定\) · 11月27日 05:48
+
+**「背景」** 印尼政府此前一再承诺不提高补贴燃料价格，即便在全球油价上涨期间也保持补贴汽油 Pertalite 的零售价不变，因此任何调价都将标志着政策转向。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.antaranews.com/news/441775/indonesia-sees-opportunity-to-sustain-growth-as-global-oil-prices-ease">Indonesia sees opportunity to sustain growth as global oil prices ease</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Indonesia`, `#fuel subsidies`, `#fiscal policy`, `#energy policy`, `#inflation`
+
+---
+
+<a id="item-finance-news-5"></a>
+### [BAE 系统称欧洲战斗车辆订单总额达 60 亿美元](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2RKOGc2NkFKZVhNVTVTeTVtZGQyc041VHZKZXRHNlM4eUI1eU1DVW1FNDVicTN2ajJ5RE9LQW1PMTEyaDF2YTYydFRhSmRMelUxbndQQTNjSGN4Qm52X1h5dU1kTTZCZHhwQVpHaUVRRE14T1lNSFNpWkVuTkhVc3hNWVpRMVpNaFVkN0VKRE9lSDBlTl9vZFppWHhYTThha0J3UUtYNTdMWHRSajhVRUNoaHRmMGV5UU9ZenBFZ2MxZWQ2?oc=5) ⭐️ 6.0/10
+
+据路透社报道，BAE 系统公司表示，一份欧洲战斗车辆订单总额为 60 亿美元。该报道未披露客户、交付时间或收入影响等细节。
+
+rss · 路透社财经 \(官网锁定\) · 11月27日 12:38
+
+**「背景」** BAE 系统公司是一家总部位于伦敦的英国跨国航空航天、武器与信息安全企业。
+
+**「对订单储备的影响」** 这笔以美元计价的订单将计入 BAE 的订单储备；截至 2025 年底，该储备为 836 亿英镑，创历史新高。这会进一步提高其防务收入未来数年的可见度。不过公司未披露客户和交付时间表，收入确认节奏尚不明确。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BAE_Systems">BAE Systems - Wikipedia</a></li>
+<li>UK&#x27;s BAE Systems forecasts years of growth in &#x27;new era&#x27; of defence ...</li>
+
+</ul>
+</details>
+
+**标签**: `#BAE Systems`, `#defense industry`, `#European defense`, `#contracts`, `#Reuters`
 
 ---
